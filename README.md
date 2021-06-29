@@ -4,10 +4,6 @@
 A 'Full Stack Eletro' é um projeto em React Native de adaptação de duas páginas do website original para mobile <br> <br>
 
 
-
-<div align="center"> <img width="500px" src="/src/logo.svg"> <br>
-<em>Programadores tem 30% de desconto em todos os produtos da loja!</em> :satisfied: </div>
-
 ## Índice
 * [Sobre o projeto](#sobre-o-projeto)
 * [Screenshots](#screenshots)
@@ -17,5 +13,6 @@ A 'Full Stack Eletro' é uma e-commerce especializada em eletrodomésticos sendo
 
 
 ## Screenshots
-<img width="90%" src="./public/screenshot.png">
+<img width="30%" src="./screenshots/screenshot-telainicial.png">
+<img width="30%" src="./screenshots/screenshot-lojas.png">
 	
