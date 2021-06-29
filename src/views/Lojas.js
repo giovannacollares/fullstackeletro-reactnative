@@ -1,7 +1,7 @@
 
 import { Card, Tile } from 'react-native-elements'
 import React from 'react';
-import { View, Text, FlatList, StyleSheet } from 'react-native';
+import { View, StyleSheet } from 'react-native';
 import Menu from '../components/Menu'
 
 const Lojas = (props) => {
@@ -54,7 +54,7 @@ const Lojas = (props) => {
 const styles = StyleSheet.create({ 
     imagem:{
         width: 310,
-        height: 200
+        height: 150
     },
     nome:{
         textAlign: 'center',
